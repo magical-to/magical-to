@@ -3,6 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=150&section=header&text=Magical&fontColor=ffffff&fontSize=20"/>
 </div>
 
+<h3 align="center">🔱"Let's Try Forensic Analysis on Everything in the World."🔱</h3>
+<br>
+<br>
+
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
