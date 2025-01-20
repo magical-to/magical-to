@@ -103,8 +103,4 @@
   </a>
   <a href="202021035@sangmyung.kr">
     <img src = https://img.shields.io/badge/202021035@sangmyung.kr-1F1F1F?style=for-the-badge&logo=gmail&logoColor=)>&nbsp
-  <a href="https://instagram.com/jin._.gy0">
-    <img src = https://img.shields.io/badge/jin._.gy0-1F1F1F?style=for-the-badge&logo=instagram&logoColor=)>&nbsp
-  <a href="https://instagram.com/storage__musics">
-    <img src = https://img.shields.io/badge/storage__musics-1F1F1F?style=for-the-badge&logo=instagram&logoColor=)>&nbsp
 </div>
