@@ -44,8 +44,11 @@
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white" />&nbsp
+  
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/forensic-F3F3F3.svg?style=for-the-badge&logo=hackaday&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/SPring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" />&nbsp
