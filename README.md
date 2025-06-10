@@ -61,7 +61,6 @@
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />
   <img src="https://img.shields.io/badge/forensic-F3F3F3.svg?style=for-the-badge&logo=hackaday&logoColor=black" />
   <img src="https://img.shields.io/badge/SPring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/SPring boot-6DB33F.svg?style=for-the-badge&logo=Spring boot&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
