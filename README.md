@@ -52,7 +52,7 @@
 <div align="center">
   <h5 align="center">Sangmyung University Department of Software : 2020.03 ~</h5>
   <h5 align="center">CodeCure at Sangmyung University : 2020.03 ~ 2020.12 / 2023.03 ~ 2023.07 / 2024.07 ~  </h5>
-  <h5 align="center">KITRI🔰 WhiteHat School 1st : 2023.09 ~ 2024.03 </h5>
+  <h5 align="center">KITRI🔰 한국정보기술연구원 차세대 보안 인재 양성 프로그램 WhiteHat School 1st : 2023.09 ~ 2024.03 </h5>
   <h5 align="center">CTF Team🚩 RubiyaLab(https://rubiyalab.team) : 2024.09 ~ 2025.09</h5>
   <h5 align="center">SMU : 캠퍼스 한 바퀴 Developer(https://apps.apple.com/kr/app/escapesmu/id6745394934)</h5>
 </div>
