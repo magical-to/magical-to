@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=150&section=header&text=Magical&fontColor=ffffff&fontSize=20"/>
 </div>
 
-<h3 align="center">🔱"Try Forensic Analysis On Everything In The World..?"🔱</h3>
+<h3 align="center">🔱"Forensic To Be Continue..."🔱</h3>
 <br>
 <br>
 
